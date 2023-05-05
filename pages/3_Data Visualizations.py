@@ -29,25 +29,26 @@ st.bar_chart(df["OS"].value_counts())
 
 st.write("Let's see how the MRP is varying with respect to features:")
 
-fig = px.bar(df, x='OS', y='MRP')
+fig = plt.figure(figsize=(10, 4))
 
-st.plotly_chart(fig, use_container_width=True)
-
-
-fig = px.bar(df, x='RAM_size', y='MRP')
-
-st.plotly_chart(fig, use_container_width=True)
-
-
-fig = px.bar(df, x='bit', y='MRP')
-
-st.plotly_chart(fig, use_container_width=True)
-
-
-fig = px.bar(df, x='SSD_Storage', y='MRP')
-
-st.plotly_chart(fig, use_container_width=True)
+sns.lineplot(data=df, x='OS', y='MRP')
 
 
 
+st.pyplot(fig)
 
+fig = plt.figure(figsize=(10, 4))
+
+sns.lineplot(data=df, x='RAM_size', y='MRP')
+
+
+st.pyplot(fig)
+
+
+fig = plt.figure(figsize=(10, 4))
+
+sns.lineplot(data=df, x='SSD_Storage', y='MRP')
+
+
+
+st.pyplot(fig)
