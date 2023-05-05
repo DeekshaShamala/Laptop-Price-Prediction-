@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Introduction:")
-st.snow()
+
 
 st.subheader("About Me:")
 

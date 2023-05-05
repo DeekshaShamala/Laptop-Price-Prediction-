@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 st.title("Laptop Price Prediction")
-st.snow()
+
 
 #model = joblib.load(r"C:\Users\deeksha\laptop price analysis\laptop_price_prediction.pkl")
 
