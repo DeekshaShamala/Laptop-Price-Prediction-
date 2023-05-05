@@ -66,7 +66,8 @@ pr = model.predict(new_pt)
 btn_click = st.button("Predict")
 
 if btn_click == True:
-    st.write(pr)
+    st.write("This is predicted price of the laptop based on the features selected:")
+    st.write("₹",pr[0])
     
 
 
