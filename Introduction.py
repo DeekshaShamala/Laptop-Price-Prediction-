@@ -6,7 +6,7 @@ st.title("Introduction:")
 st.subheader("About Me:")
 
 
-st.markdown('Hi There! I am Deeksha Reddy S, an undergraduate in Mechanical Engineering. I am passionate about data driven decision making as it involves the application of statistical analysis and discovering trends in data through logical thinking. I will be able to contribute in this field with my strong skills in Data Analysis and Machine Learning using Python.')
+st.markdown('Hi There! I am Deeksha Reddy S, an undergraduate in Mechanical Engineering. I am passionate about data driven decision making as it involves the application of statistical analysis and discovering trends in data through logical thinking.')
 
 st.subheader("Connect With Me")
 
