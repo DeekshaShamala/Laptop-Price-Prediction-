@@ -1,0 +1,424 @@
+,MRP,Processor,RAM_size,bit,SSD_Storage,OS,RAM_Type,Display
+0,36990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+1,39990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+2,32990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+3,49990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+4,49990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+5,36990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+6,38990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+7,39990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+8,46990,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+9,44990,AMD Ryzen 7 Quad Core Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+10,59990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+11,38705,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+12,32990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+13,52990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+14,29990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+15,196990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+16,47990,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+17,45990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+18,47990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+19,85990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+20,88990,Apple M1 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+21,40990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+22,19490,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 11,DDR4,39.62
+23,35590,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+24,65990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+28,58990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+32,24990,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+33,47990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+34,73990,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+35,53490,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+37,150990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+38,51990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+39,66990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+41,194990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+42,51990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+43,25990,AMD Athlon Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+44,35990,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+45,43990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+46,44990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+47,64490,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+48,40990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+49,38990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+52,58990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+53,59990,Intel Evo Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+54,47990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+55,37499,AMD Ryzen 3 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+58,94990,AMD Ryzen 9 Octa Core Processor,8,64,1 TB ,Windows 10,DDR4,35.56
+59,32990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+62,23990,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 11,DDR4,35.56
+63,48990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+64,139990,Apple M2 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+65,89990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+68,59990,AMD Ryzen 5 Hexa Core Processor,8,64,1 TB ,Windows 11,DDR4,39.62
+69,70990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+72,22990,Intel Celeron Quad Core Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+73,46990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+74,50990,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+75,28990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+78,84990,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+79,181990,Apple M1 Pro Processor,16,64,512 GB ,Windows 11,DDR4,36.07
+82,109990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+83,32990,Qualcomm Snapdragon 7c Gen 2 Processor,4,64,512 GB ,Windows 11,DDR4,35.56
+84,37990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+85,139990,Apple M2 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+88,29990,Intel Core i3 Processor,4,64,256 GB ,Windows 11,DDR4,39.62
+89,19490,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,35.56
+91,73490,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+92,52990,AMD Ryzen 5 Hexa Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+93,41890,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+94,30428,Intel Pentium Silver Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+95,34990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+98,88990,Apple M1 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+100,65990,Intel Core i7 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+101,33490,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+102,60990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+105,59990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+106,114990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+108,119990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+109,42990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+110,89990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+112,79990,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+113,70990,Intel Core i5 Processor,8,64,1 TB ,Windows 11,DDR4,39.62
+114,33900,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+117,52990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+118,124990,Apple M1 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+120,31990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+121,66990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+122,89081,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+124,104990,Apple M1 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+125,53490,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+126,45990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+128,45990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+129,51990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+130,75990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+132,36990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+133,78800,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+134,29390,AMD Athlon Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+136,30990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+137,62490,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+138,89990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+140,58899,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+141,85990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+142,33099,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+145,63490,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+148,38990,AMD Ryzen 5 Quad Core Processor,8,32,512 GB ,Windows 11,DDR4,35.56
+149,67990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+152,39790,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+153,241990,Apple M1 Pro Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+154,104990,Apple M1 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+155,42190,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+158,39990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+159,99990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+162,309490,Apple M1 Max Processor,32,64,1 TB ,Windows 11,DDR4,39.62
+163,64990,Intel Core i5 Processor,16,64,256 GB ,Windows 11,DDR4,39.62
+165,85990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+168,222990,Apple M1 Pro Processor,16,64,1 TB ,Windows 11,DDR4,36.07
+169,15990,Intel Celeron Dual Core Processor,4,64,128 GB ,Windows 11,DDR4,35.81
+172,45900,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+173,79990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+174,56990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+175,34990,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+178,43580,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+179,74990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+182,37490,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+183,20990,Intel Celeron Quad Core Processor,4,64,128 GB ,Windows 11,DDR4,35.56
+184,109990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+185,71990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+188,32990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+189,43990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+192,25990,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+193,122990,Intel Core i9 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+194,68990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+195,59990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+198,39990,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+199,37990,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+202,25950,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 10,DDR4,35.56
+203,64999,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+204,60990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+205,36990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+208,59990,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+209,222990,Apple M1 Pro Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+212,235283,Intel Core i9 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+213,38990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+214,67990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+215,79990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+222,89990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+223,241990,Intel Core i9 Processor,32,64,1 TB ,Windows 11,DDR5,39.62
+224,43490,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+225,46990,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+228,40990,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+229,94990,Apple M1 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+232,114990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+233,121990,Apple M2 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+235,27990,Intel Pentium Silver Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+238,40190,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+239,34990,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+242,94990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,35.56
+243,69990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+244,59990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+245,66990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+248,104990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+249,54900,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+252,136990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+253,48184,AMD Ryzen 5 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+254,74990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+255,60990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+258,49990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+259,67990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+262,58000,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+263,29990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+264,114990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,35.56
+265,33990,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+268,64990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+269,79990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+273,56990,AMD Ryzen 5 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+274,81990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+275,129990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+278,38990,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+279,79990,AMD Ryzen 7 Octa Core Processor,16,64,256 GB ,Windows 10,DDR4,39.62
+282,139990,Apple M2 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+283,109990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+284,154990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+285,62990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+288,47990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+289,43667,AMD Ryzen 3 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+290,135990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+292,98990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+293,46990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+294,35990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+296,109990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+297,139990,Apple M2 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+298,74770,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+300,40799,AMD Ryzen 3 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+301,69490,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+302,39990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+304,99990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR5,35.56
+305,241990,Apple M1 Pro Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+306,40990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+308,60390,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+309,69990,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+310,44990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+312,44990,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+318,55990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+319,74990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+324,59990,Intel Core i5 Processor,8,64,1 TB ,Windows 11,DDR4,39.62
+325,222990,Apple M1 Pro Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+332,62990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+334,58499,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+335,65990,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+338,111990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+339,68490,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+343,83990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+344,54990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+345,14990,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,35.56
+348,149990,Apple M1 Processor,8,64,1 TB ,Windows 11,DDR4,35.56
+349,63090,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+352,200000,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+353,37390,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+354,63990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+355,43090,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+358,44700,Intel Core i3 Processor,4,64,256 GB ,Windows 10,DDR4,39.62
+359,41150,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+362,33990,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+363,190890,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+364,174990,Intel Core i9 Processor,16,64,1 TB ,Windows 11,DDR5,35.56
+365,118990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+368,63980,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+369,54300,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+372,36400,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+373,28590,Intel Core i3 Processor,4,64,256 GB ,Windows 10,DDR4,39.62
+374,69999,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+375,301990,Intel Core i9 Processor,32,64,1 TB ,Windows 11,DDR5,39.62
+378,37000,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,38.1
+379,64990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+382,42690,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,38.0
+383,140990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+384,38990,Intel Core i3 Processor,4,64,256 GB ,Windows 10,DDR4,38.1
+385,128990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+386,54999,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+388,60130,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+389,29490,Intel Pentium Silver Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+390,72490,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+392,73990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+393,47130,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+394,55600,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+396,49690,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+397,239990,Intel Core i7 Processor,32,64,1 TB ,Windows 11,DDR5,39.62
+398,73990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+400,52490,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+401,41990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+402,29990,Intel Pentium Quad Core Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+404,50490,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+405,96490,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+408,74990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+409,51990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+412,71345,AMD Ryzen 5 Hexa Core Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+413,101490,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+414,274990,Intel Core i7 Processor,32,64,1 TB ,Windows 11,DDR5,39.62
+415,199990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+418,41090,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+419,50499,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+422,78950,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+423,67990,AMD Ryzen 5 Hexa Core Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+424,187990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+425,102990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,35.56
+428,35990,Intel Core i3 Processor,4,64,256 GB ,Windows 11,DDR4,39.62
+429,52575,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+432,50990,AMD Ryzen 5 Quad Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+433,60125,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+434,26490,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 10,DDR4,35.56
+435,80249,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+438,129999,Intel Core i5 Processor,28,64,128 GB ,Windows 10,DDR4,39.62
+439,76990,AMD Ryzen 7 Octa Core Processor,8,64,1 TB ,Windows 10,DDR4,35.56
+442,36990,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+443,107790,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+444,75990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+445,95990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+448,61999,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+449,28990,Intel Celeron Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+452,54990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+453,56990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+454,45990,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,35.56
+455,38216,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,35.81
+458,79990,Intel Core i7 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+459,43990,Intel Core i3 Processor,4,64,256 GB ,Windows 10,DDR4,39.62
+462,108250,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+463,28990,Intel Core i3 Processor,4,64,512 GB ,Windows 10,DDR4,39.62
+464,389990,Intel Core i9 Processor,32,64,2 TB ,Windows 11,DDR5,39.62
+465,67224,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+468,114990,AMD Ryzen 7 Octa Core Processor,16,64,256 GB ,Windows 10,DDR4,39.62
+469,61249,Intel Core i5 Processor,4,64,512 GB ,Windows 10,DDR4,35.56
+472,69990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+473,69990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+475,37990,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+478,36990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+479,29980,Intel Celeron Dual Core Processor,4,64,128 GB ,Windows 11,DDR4,35.56
+483,41600,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+485,61986,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+489,38999,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+492,31990,Intel Core i3 Processor,4,64,256 GB ,Windows 11,DDR4,35.56
+495,46990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+498,37990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+502,61490,AMD Ryzen 5 Hexa Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+503,109990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+504,54990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+505,50990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+508,62190,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+509,24390,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,39.62
+512,36990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+513,159990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+514,34490,Intel Core i3 Processor,4,64,256 GB ,Windows 11,DDR4,35.56
+515,99990,AMD Ryzen 9 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+518,79990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+522,41490,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+523,206581,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+524,59990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+525,62990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+528,194990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+529,62990,AMD Ryzen 5 Hexa Core Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+532,61990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+533,105990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+534,155490,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+535,19990,Intel Celeron Dual Core Processor,4,64,128 GB ,Windows 11,DDR4,35.81
+538,33499,Intel Core i3 Processor,4,64,512 GB ,Windows 10,DDR4,39.62
+542,63990,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+543,124990,Intel Core i9 Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+544,21990,Intel Celeron Dual Core Processor,4,64,512 GB ,Windows 11,DDR4,35.56
+545,30100,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 10,DDR4,35.56
+548,199990,Intel Core i7 Processor,32,64,1 TB ,Windows 11,DDR5,39.62
+549,61130,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+552,40990,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+553,75990,Intel Core i5 Processor,8,64,1 TB ,Windows 10,DDR4,39.62
+554,46890,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+559,19990,Intel Celeron Dual Core Processor,4,64,512 GB ,Windows 11,DDR4,35.56
+562,89990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+563,59790,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+564,125990,Intel Core i9 Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+565,249990,AMD Ryzen 7 Octa Core Processor,32,64,2 TB ,Windows 11,DDR5,39.62
+568,149990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+569,36990,Intel Pentium Quad Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+572,85990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+573,60990,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+574,87900,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR5,39.62
+575,27490,AMD Dual Core Processor,4,64,512 GB ,Windows 10,DDR4,39.62
+580,28999,AMD Ryzen 3 Dual Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+582,117990,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+585,61497,Intel Core i5 Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+586,70400,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+588,69000,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+590,149990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+592,96579,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR5,39.62
+593,101990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+596,94990,AMD Ryzen 7 Octa Core Processor,8,64,512 GB ,Windows 11,DDR5,39.62
+597,314990,Intel Core i7 Processor,32,64,2 TB ,Windows 11,DDR5,39.62
+598,46900,Intel Core i3 Processor,8,64,256 GB ,Windows 11,DDR4,38.1
+602,331990,Intel Core i9 Processor,32,64,2 TB ,Windows 11,DDR5,39.62
+603,116490,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+604,64590,AMD Ryzen 3 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+605,137990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+608,55690,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+609,109990,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+612,79990,Intel Core i7 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+613,130500,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+614,361990,AMD Ryzen 9 Octa Core Processor,32,64,2 TB ,Windows 11,DDR5,39.62
+615,211990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+618,39890,Intel Core i3 Processor,4,64,256 GB ,Windows 10,DDR4,38.1
+619,139990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+622,99990,Intel Core i7 Processor,16,64,256 GB ,Windows 10,DDR4,39.62
+623,66700,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+624,68990,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+625,434830,Intel Core i9 Processor,32,64,1 TB ,Windows 11,DDR4,39.62
+628,345390,Intel Core i9 Processor,32,64,1 TB ,Windows 10,DDR4,39.62
+629,105822,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+632,28490,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,35.56
+633,66990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+634,86999,Intel Core i5 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+635,36990,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+638,23250,Intel Celeron Dual Core Processor,4,64,256 GB ,Windows 11,DDR4,35.56
+639,42390,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+642,58990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+643,110990,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+644,74590,Intel Core i5 Processor,28,64,128 GB ,Windows 10,DDR4,39.62
+645,71990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+648,84990,Intel Core i5 Processor,16,64,512 GB ,Windows 10,DDR4,35.56
+649,119990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,35.56
+652,214990,Intel Core i7 Processor,32,64,1 TB ,Windows 10,DDR4,39.62
+653,48790,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,35.56
+654,76000,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+655,224990,AMD Ryzen 9 Octa Core Processor,32,64,1 TB ,Windows 10,DDR4,35.56
+658,49990,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+659,164990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR5,35.56
+662,31490,AMD Ryzen 3 Dual Core Processor,8,64,256 GB ,Windows 11,DDR4,39.62
+663,48077,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+664,154990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+665,224990,Intel Core i7 Processor,32,64,1 TB ,Windows 10,DDR4,39.62
+668,44990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+669,65990,Intel Core i5 Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+672,31990,Intel Core i3 Processor,8,64,512 GB ,Windows 10,DDR4,35.81
+673,38980,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,35.56
+674,68990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+675,43090,Intel Core i3 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
+682,49348,Intel Core i3 Processor,8,64,512 GB ,Windows 11,DDR4,39.62
+683,221774,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+684,73990,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 10,DDR4,39.62
+685,77990,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 11,DDR4,39.62
+688,214790,Intel Core i7 Processor,16,64,1 TB ,Windows 10,DDR4,39.62
+689,199990,Intel Core i7 Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+693,52414,AMD Ryzen 5 Hexa Core Processor,8,64,512 GB ,Windows 11,DDR4,35.56
+694,179990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+695,25990,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,35.56
+698,80615,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+699,155990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+702,49990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR4,35.56
+703,157990,Intel Core i7 Processor,16,64,1 TB ,Windows 11,DDR4,39.62
+704,92990,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR5,39.62
+705,171990,AMD Ryzen 7 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,39.62
+709,151990,AMD Ryzen 9 Octa Core Processor,16,64,1 TB ,Windows 11,DDR5,35.56
+712,233990,Intel Core i7 Processor,16,64,2 TB ,Windows 10,DDR3,35.56
+713,76590,Intel Core i5 Processor,16,64,512 GB ,Windows 11,DDR5,35.56
+714,90000,AMD Ryzen 7 Octa Core Processor,16,64,512 GB ,Windows 10,DDR4,39.62
+715,23490,Intel Celeron Dual Core Processor,4,64,512 GB ,Chrome,DDR4,35.56
+718,125990,Intel Core i7 Processor,16,64,512 GB ,Windows 11,DDR5,35.56
+719,50990,Intel Core i5 Processor,8,64,256 GB ,Windows 10,DDR4,39.62
