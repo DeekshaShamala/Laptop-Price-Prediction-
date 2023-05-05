@@ -42,17 +42,17 @@ Processor = st.selectbox("Select the type of Processor:", ('Intel Core i3 Proces
        'Intel Pentium Quad Core Processor', 'AMD Dual Core Processor',
        'AMD Ryzen 3 Hexa Core Processor'))
 
-RAM_size = st.selectbox("Select the type of RAM_size:", ('8', '16', '4', '32', '28'))
+RAM_size = st.selectbox("Select the RAM_size:", ('8', '16', '4', '32', '28'))
 
-bit = st.selectbox("Select the type of bit:", ('64', '32'))
+bit = st.selectbox("Select the bit:", ('64', '32'))
 
-SSD_Storage = st.selectbox("Select the type of SSD_Storage:", ('256 GB ', '512 GB ', '1 TB ', '128 GB ', '2 TB '))
+SSD_Storage = st.selectbox("Select the size of SSD_Storage:", ('256 GB ', '512 GB ', '1 TB ', '128 GB ', '2 TB '))
 
 OS = st.selectbox("Select the type of OS:", ('Windows 11', 'Windows 10', 'Chrome'))
 
-RAM_Type = st.selectbox("Select the type of RAM_Type:", ('DDR4', 'DDR5', 'DDR3'))
+RAM_Type = st.selectbox("Select the RAM_Type:", ('DDR4', 'DDR5', 'DDR3'))
 
-Display = st.selectbox("Select the type of Display:", (5.56, 39.62, 36.07, 35.81, 38.1 , 38. ))
+Display = st.selectbox("Select the of Display size:", (5.56, 39.62, 36.07, 35.81, 38.1 , 38. ))
 
 
 
